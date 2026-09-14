@@ -3,7 +3,6 @@
 A Flutter app for music playback, collaborative singing, and practice timing.
 
 ## ✨ Features
-- 🎶 **Music Player** — Play tracks from local assets
 - 🎤 **Collaborative Singing** — Record and playback your voice
 - ⏱️ **Practice Timer** — Simple countdown timer
 - 🚀 **Advanced Timer** — Beat player with customizable BPM
